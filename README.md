@@ -1,7 +1,7 @@
-# 👋 Wellcome  
+.# 👋 Wellcome  
  meu nome é Ana Carolina!
-- 👩‍🎓 Estou no primeiro semestre da universidade
-- 🤓 Aperendendo: C
+- 👩‍🎓 Estou no segundo semestre da universidade
+- 🤓 Aperendendo: C, phyton e Java
 
 Venha conhecer mais sobre mim no meu [portifolio pessoal](https://sites.google.com/view/portifolio-hub-ana-carolina/p%C3%A1gina-inicial)!
 
